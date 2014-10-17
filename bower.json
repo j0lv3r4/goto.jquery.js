@@ -1,0 +1,15 @@
+{
+	"name": "goto",
+	"version": "0.0.1",
+	"main": "goto.jquery.js",
+	"ignore": [
+		".bowerrc",
+		".gitignore",
+		"bower.json",
+		"readme.md",
+		"todo.md"
+	],
+	"dependencies": {
+		"jquery": ">=1.10.2"
+	}
+}
